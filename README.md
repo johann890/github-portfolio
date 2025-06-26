@@ -17,10 +17,12 @@ Third-year Software Engineering student with a passion for application developme
 - Git
 - Docker
 
-### Tools
+### Tools / Frameworks
 - Trello
 - JUnit
 - Figma
+- UML
+- Agile Development
 
 ## Projects
 ### Code-Catchers: Third-Year Group Project
