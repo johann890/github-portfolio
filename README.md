@@ -29,7 +29,7 @@ February 2025 – November 2025
 - Participated in a year-long project using industry-standard project management practices, ensuring adherence to Agile methodologies, timelines, and task prioritization.
 - Coordinated team tasks, and prioritized back-end development alongside team members
 
-### 'The Word': Solo Website Project
+### The Word: Solo Website Project
 June 2025 - Ongoing
 - Technologies: HTML, CSS, JS, Figma, React
 - Creating a bi-weekly blog for a church organization for posting/sharing of messages on an online platform. Blog must be accessible to all types of end users, aswell as show a distince progression and status across. 
