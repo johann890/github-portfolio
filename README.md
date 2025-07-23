@@ -4,25 +4,13 @@ Third-year Software Engineering student with a passion for application developme
 
 ## Technical Skills
 ### Languages
-- HTML
-- CSS
-- JavaScript
-- Java
-- Python
-- C++/C
-- SQL
+- HTML, CSS, JavaScript, Java, Python, C++/C, SQL/Php
 
 ### Architectures
-- Amazon Aws
-- Git
-- Docker
+- Amazon Aws, Git, Docker
 
 ### Tools / Frameworks
-- Trello
-- JUnit
-- Figma
-- UML
-- Agile Development
+- Trello, JUnit, Figma, UML, Agile Development
 
 ## Projects
 ### Code-Catchers: Third-Year Group Project
