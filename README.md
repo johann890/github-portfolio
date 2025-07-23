@@ -33,13 +33,14 @@ February 2025 – November 2025
 
 ### The Word: Solo Website Project
 June 2025 - Ongoing
-- Technologies: HTML, CSS, JS, Figma, React
+- Technologies: HTML, CSS, Figma
 - Creating a bi-weekly blog for a church organization for posting/sharing of messages on an online platform. Blog must be accessible to all types of end users, aswell as show a distince progression and status across. 
 - Use of a shared structure: Storing likes, comments and previous files in the website. Made sure to implement thorough contact channels across.
 
-### Chaps Challenge: Second-Year Group Project
-August 2024 - November 2024
-- Technologies: J
+### GradeHelp: Solo Application Project
+July 2025 - Ongoing
+- Technologies: JS, React, HTML, CSS
+- Creating a 
 
 ### Chaps Challenge: Second-Year Group Project
 August 2024 - November 2024
